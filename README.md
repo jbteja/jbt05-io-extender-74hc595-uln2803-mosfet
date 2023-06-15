@@ -1,2 +1,5 @@
-# jbt05-io-extender-74hc595-uln2803-mosfet
-IO extender for switching On/Off low current motors
+# IO extender for switching low current motors and solenoid valves
+> Image of the board:
+<p align="center">
+  <img src="Images/rev-0.1.1.png">
+</p>
