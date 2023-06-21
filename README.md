@@ -8,3 +8,7 @@
 <p align="center">
   <video src="3D/rev-0.1.1.mp4">
 </p>
+
+<video width="320" height="240" controls>
+  <source src="3D/rev-0.1.1.mp4" type="video/mp4">
+</video>
