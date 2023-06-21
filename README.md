@@ -6,5 +6,5 @@
 
 > 3D  view of the board:
 <p align="center">
-  <img src="3D/rev-0.1.1.mp4">
+  <video src="3D/rev-0.1.1.mp4">
 </p>
